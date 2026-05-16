@@ -149,27 +149,6 @@ require_once USER_INCLUDES . 'layout.php';
     </div>
   </section>
 
-  <!-- ══════════════════ PEMBAYARAN COD ══════════════════ -->
-  <section class="section-gap pt-0 pb-0 landing-cod-wrap">
-    <div class="container">
-      <div class="landing-cod-card">
-        <div class="landing-cod-inner">
-          <div class="landing-cod-badge" aria-hidden="true"><i class="bi bi-cash-stack"></i></div>
-          <div class="landing-cod-body">
-            <div class="landing-cod-label">Metode pembayaran</div>
-            <h2 class="landing-cod-title">Payment At Delivery — bayar di tempat</h2>
-            <p class="landing-cod-text">
-              Kami mendukung <strong style="color:var(--clr-heading);">COD (Cash on Delivery)</strong>: total pesanan dibayar
-              saat kurir atau paket sampai di alamat Anda. Setelah checkout, ikuti instruksi di halaman
-              <strong>Pesanan Saya</strong> untuk konfirmasi dan unggah bukti bila diperlukan sesuai kebijakan toko.
-            </p>
-          </div>
-          <span class="landing-cod-pill">COD</span>
-        </div>
-      </div>
-    </div>
-  </section>
-
   <!-- ══════════════════ KATALOG BUKU ══════════════════ -->
   <section class="section-gap" id="buku">
     <div class="container">
