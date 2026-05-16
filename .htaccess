@@ -1,0 +1,4 @@
+RewriteEngine On
+
+# URL /login menampilkan halaman admin/index.php
+RewriteRule ^login/?$ admin/index.php [L]
