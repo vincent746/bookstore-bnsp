@@ -6,7 +6,7 @@ Aplikasi toko buku online berbasis **PHP** dan **MySQL** (mysqli), dengan panel 
 
 ## Persyaratan lingkungan
 
-- **PHP** 7.3+ (disarankan 8.x) dengan ekstensi `mysqli`, `json`, `session`, `fileinfo` (unggah gambar).
+- **PHP** 8.3.16 (disarankan 8.x) dengan ekstensi `mysqli`, `json`, `session`, `fileinfo` (unggah gambar).
 - **MySQL** / MariaDB.
 - Web server (Apache/Nginx) atau **Laragon** / XAMPP / stack sejenis.
 
