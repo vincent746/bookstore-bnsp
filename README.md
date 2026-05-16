@@ -220,7 +220,3 @@ Konstanta `LOGIN_URL` di `includes/admin/init.php` diarahkan ke `BASE_URL . 'log
 - Untuk **keamanan** produksi, pertimbangkan prepared statements, CSRF pada form, dan pembatasan akses file unggahan.
 
 ---
-
-## Lisensi / hak cipta
-
-Sesuaikan dengan kebijakan proyek Anda.
